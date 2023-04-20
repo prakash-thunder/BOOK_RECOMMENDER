@@ -2,4 +2,4 @@ gunicorn
 numpy
 flask
 scikit-learn
-pickle5
+pandas
