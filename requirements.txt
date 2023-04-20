@@ -2,4 +2,5 @@ gunicorn
 numpy
 flask
 scikit-learn
-pandas==1.5.2
+pandas
+pickle
